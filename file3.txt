@@ -1,0 +1,1 @@
+This is file3 content which was pushed to main after feature 1 development
