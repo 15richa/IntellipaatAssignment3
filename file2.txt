@@ -1,0 +1,1 @@
+This is file2 content initially created as part of feature1 development
